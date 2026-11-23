@@ -1,7 +1,8 @@
 # Humanity-Through-Community
 Connecting people through shared experiences.
 
-Unoficial platform designed to help people build meaningful connections through advice, support, opportunities and community engagement.
+Unoff
+official platform designed to help people build meaningful connections through advice, support, opportunities and community engagement.
 
 Features:
 Discussions

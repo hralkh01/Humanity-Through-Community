@@ -1,2 +1,14 @@
 # Humanity-Through-Community
-Campus engagement platform where users ask questions, share thoughts or experiences, offer advice, discover opportunities and build connections.
+Connecting people through shared experiences.
+
+Unoficial platform designed to help people build meaningful connections through advice, support, opportunities and community engagement.
+
+Features:
+Discussions
+Student Support
+Advice
+Resources
+Peer Connections
+
+Status:
+Currently in active development
